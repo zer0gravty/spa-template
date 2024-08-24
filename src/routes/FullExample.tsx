@@ -11,7 +11,7 @@ function FullExample() {
   return (
     <div className="container mx-auto">
       <header className="flex justify-between items-center sticky top-0 z-10 py-4 bg-blue-900">
-        <div className="flex flex-shring-0 ml-6 cursor-pointer gap-2">
+        <div className="flex flex-shrink-0 ml-6 cursor-pointer gap-2">
           <FaWind size={40} className="text-yellow-500" />
           <span className="text-3xl font-semibold text-blue-200">Twitbook</span>
         </div>
